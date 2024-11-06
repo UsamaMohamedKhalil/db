@@ -1,5 +1,5 @@
 {
-    "name": "db/firstpack",
+    "name": "heroman/firstpack",
     "type": "library",
     "autoload": {
         "psr-4": {
