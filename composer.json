@@ -1,0 +1,10 @@
+{
+    "name": "db/firstpack",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Db\\Firstpack\\": "src/"
+        }
+    },
+    "require": {}
+}
